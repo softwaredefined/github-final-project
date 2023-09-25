@@ -34,7 +34,7 @@
 6. 
 7. # Author: Upkar Lidder (IBM)
 8. # Additional Authors:
-9. # <your GitHub username>
+9. # softwaredefined
 10. 
 11. # Input:
 12. # p, principal amount
